@@ -17,7 +17,7 @@ public class ConsultaMoeda {
                     .send(request, HttpResponse.BodyHandlers.ofString());
             return new Gson().fromJson(response.body(), Moeda.class);
         } catch (Exception e) {
-            throw new RuntimeException("Não consegui obter a cotação da moeda através dessa sigla!");
+            throw new RuntimeException("Não consegui obter a cotação da moeda!");
         }
     }
 }
