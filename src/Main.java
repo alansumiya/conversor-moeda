@@ -4,8 +4,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws IOException, InterruptedException {
        Scanner ler = new Scanner(System.in);
-//       ConsultaMoeda consultaMoeda = new ConsultaMoeda();
-//       ValorFinalConversao valorFinalConversao = new ValorFinalConversao();
        Imprime imprime = new Imprime();
        int opcao = 0;
        var busca = "";
