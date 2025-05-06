@@ -5,7 +5,7 @@
 
  ![Concluído](http://img.shields.io/static/v1?label=STATUS&message=Concluído&color=GREEN&style=for-the-badge) 
  ![Concluído](http://img.shields.io/static/v1?label=Data_lançamento&message=Maio&color=GREEN&style=for-the-badge) 
- ![Concluído](http://img.shields.io/static/v1?label=Versão&message=1.0&color=GREEN&style=for-the-badge)
+ ![Concluído](http://img.shields.io/static/v1?label=Versão&message=2.0&color=GREEN&style=for-the-badge)
 
 <h2>Descrição do projeto</h2>
 <p>O projeto é uma atividade do curso ONE(Oracle Next Education) em parceria com a Alura. Consiste em criar um conversor de moeda em linguagem java utilizando API.</p>
@@ -23,6 +23,17 @@
   
  ![Inserindo valor para conversão](https://github.com/user-attachments/assets/155656e2-9444-4f73-b17b-98a3dfe7466c)
 
+ - `Funcionalidade 4 (Extra)` : Você pode escolher outras moedas para conversão, não ficando preso ao menu anterior.
+
+![Você digita a moeda de entrada e a moeda de saída](https://github.com/user-attachments/assets/803c0b00-f363-4909-8926-b8bc9e591af2)
+
+- `Funcionalidade 5 (Extra)` : No menu tem a opção de mostrar o histórico de conversões feitas pelo usuário.
+
+![Ao selecionar a opção 2 ele mostra o histórico de conversões](https://github.com/user-attachments/assets/39ef542d-6d83-406a-b01a-9298a3163d50)
+
+- `Funcionalidade 6 (Extra)` : No menu tem a opção de mostrar o registro de logs do programa, mostrando todas as atividades e quando foi feita.
+
+![Ao selecionar a opção 3 ele mostra o registro de log de quando foram feitas as conversões](https://github.com/user-attachments/assets/c103d716-8413-4c50-9fff-b9d837c75448)
 
 
 
@@ -37,6 +48,7 @@ Você pode <a href="https://github.com/alansumiya/conversor-moeda"> acessar o c�
 - Orientação a objeto (record, tratamento de exceções)
 - Utilização da biblioteca gson
 - Utilização da API ExchangeRate
+- Extras(Criação de arquivos json e txt para registros de conversões)
 
 # Autores
 | [<img loading="lazy" src="https://github.com/alansumiya.png" width=115><br><sub>Alan Tamotsu Sumiya</sub>](https://github.com/alansumiya) | 
