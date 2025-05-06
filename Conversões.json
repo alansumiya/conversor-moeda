@@ -1,0 +1,20 @@
+[
+  {
+    "entrada": "BRL",
+    "saida": "USD",
+    "valorAConverter": 100.0,
+    "valorFinalConversao": 17.68
+  },
+  {
+    "entrada": "USD",
+    "saida": "JPY",
+    "valorAConverter": 150.0,
+    "valorFinalConversao": 21567.704999999998
+  },
+  {
+    "entrada": "JPY",
+    "saida": "KRW",
+    "valorAConverter": 200.0,
+    "valorFinalConversao": 1914.18
+  }
+]

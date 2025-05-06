@@ -7,6 +7,7 @@ public class Imprime {
     public void ImprimeCotacao(String busca, int opcao){
         Moeda novaMoeda = consultaMoeda.buscaMoeda(busca);
         System.out.println(busca + ": " + novaMoeda.conversion_rates().get(busca));
+        
         if(opcao == 1 || opcao == 3 || opcao == 5){
             String siglaMoedaConvertida = "BRL";
             System.out.println(siglaMoedaConvertida + ": " + novaMoeda.conversion_rates()

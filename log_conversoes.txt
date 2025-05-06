@@ -1,0 +1,8 @@
+[06/05/2025 16:24:01] Convertido 100,00 BRL para USD = 17,68
+[06/05/2025 16:36:07] Convertido 100,00 BRL para USD = 17,68
+[06/05/2025 16:36:21] Convertido 100,00 BRL para JPY = 2544,26
+[06/05/2025 16:36:44] Convertido 100,00 BRL para KRW = 24308,15
+[06/05/2025 16:41:34] Convertido 100,00 BRL para USD = 17,68
+[06/05/2025 16:41:44] Convertido 150,00 USD para JPY = 21567,70
+[06/05/2025 16:41:57] Convertido 200,00 JPY para KRW = 1914,18
+[06/05/2025 16:46:27] Convertido 200,00 BRL para USD = 35,36
